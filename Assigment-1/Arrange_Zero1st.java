@@ -22,7 +22,7 @@ public class Arrange_Zero1st {
             right--;
         }
         for (int i : arr) {
-            System.out.println(i);
+            System.out.print(" " + i);
         }
     }
 
